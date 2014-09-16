@@ -1,6 +1,6 @@
 require "formula"
 
-class Docker < Formula
+class Docker101 < Formula
   homepage "http://docker.io"
   url "https://github.com/dotcloud/docker.git", :tag => "v1.0.1"
 
